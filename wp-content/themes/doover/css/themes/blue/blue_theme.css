@@ -140,10 +140,12 @@ hr {
 
 #Offer_slider .slides li h2 {
     color: #3eaaf3;
+    font-size: 50px;
 }
 
 #Offer_slider .slides li h2 span {
     color: #fff;
+
 }
 
 #Offer_slider .slides li .desc p {
