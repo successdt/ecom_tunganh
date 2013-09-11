@@ -1,4 +1,8 @@
 <?php
+	if(function_exists('buy_product')) echo buy_product();
+?>
+<input type="hidden" name="product-title" value="<?php the_title() ?>" />
+<?php
 /**
  * Single Product tabs
  *
