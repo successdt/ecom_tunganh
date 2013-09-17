@@ -22,7 +22,7 @@ define('DB_NAME', 'tunganh');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'ltt123');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -69,7 +69,7 @@ $table_prefix  = 'wp_';
  * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
  * language support.
  */
-define('WPLANG', '');
+define('WPLANG', 'vi');
 
 /**
  * For developers: WordPress debugging mode.
