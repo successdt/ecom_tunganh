@@ -217,3 +217,6 @@ ul.sub-menu li {
 	border-radius: 2px;
 	text-decoration: none;
 }
+.header-right {
+	float: none;
+}

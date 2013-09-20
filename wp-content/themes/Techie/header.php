@@ -41,6 +41,11 @@
 		        </div><!-- .logo -->
 		
 		        <div class="header-right">
+		        	<div class="header-widget" style="float: left;">
+					      <?php
+					      if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('header-widget') ) :
+					      endif; ?>
+					</div>
 					<div id="top-social-profiles">
 			            <?php $theme->hook('social_profiles'); ?>
 			        </div>

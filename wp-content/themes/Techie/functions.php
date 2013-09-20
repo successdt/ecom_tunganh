@@ -152,4 +152,16 @@
 		return '...';
 	}
 	add_filter('excerpt_more', 'new_excerpt_more');
+	
+    if ( function_exists('register_sidebar') ) {
+		register_sidebar(array(
+			'name' => 'Header widget',
+			'id' => 'header-widget',
+			'description' => 'Hiển thị phía trên đầu của trang',
+			'before_widget' => '<ul class="widget-container"><li id="%1$s" class="widget %2$s">',
+			'after_widget' => '</li></ul>',
+			'before_title' => '<h3 class="widgettitle">',
+			'after_title' => '</h3>',
+		));
+	}	
 ?>
