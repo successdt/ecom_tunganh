@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.9\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-04-29 16:02:06+00:00\n"
-"PO-Revision-Date: 2013-09-05 13:33+0700\n"
+"PO-Revision-Date: 2013-09-24 13:44+0700\n"
 "Last-Translator: Thach Pham <ezit92@gmail.com>\n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -6600,7 +6600,7 @@ msgstr ""
 #: templates/loop/add-to-cart.php:17 templates/loop/add-to-cart.php:41
 #: templates/loop/add-to-cart.php:50
 msgid "Read More"
-msgstr ""
+msgstr "Chi tiết"
 
 # @ woocommerce
 #: templates/loop/add-to-cart.php:33

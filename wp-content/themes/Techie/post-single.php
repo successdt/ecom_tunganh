@@ -6,8 +6,9 @@
         
         <div class="postmeta-primary">
     
-            <span class="meta_date"><?php echo get_the_date(); ?></span>
-           &nbsp; <span class="meta_categories"><?php the_category(', '); ?></span>
+           &nbsp;  <span class="meta_date"><?php echo get_the_date(); ?></span>
+            <?php /*
+           <span class="meta_categories"><?php the_category(', '); ?></span>
     
                 <?php if(comments_open( get_the_ID() ))  {
                     ?> &nbsp; <span class="meta_comments"><?php comments_popup_link( __( 'No comments', 'themater' ), __( '1 Comment', 'themater' ), __( '% Comments', 'themater' ) ); ?></span><?php
@@ -15,7 +16,8 @@
                 
                 if(is_user_logged_in())  {
                     ?> &nbsp; <span class="meta_edit"><?php edit_post_link(); ?></span><?php
-                } ?> 
+                } ?>
+			*/ ?> 
         </div>
         
         <div class="entry clearfix">

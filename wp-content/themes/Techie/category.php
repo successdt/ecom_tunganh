@@ -8,7 +8,7 @@
         
             <?php $theme->hook('content_before'); ?>
         
-            <h2 class="page-title"><?php printf( __( 'Category Archives: <span>%s</span>', 'themater' ), single_cat_title( '', false ) ); ?></h2>
+            <h2 class="page-title"><?php printf( __( '<span>%s</span>', 'themater' ), single_cat_title( '', false ) ); ?></h2>
             
             <?php 
                 if (have_posts()) : while (have_posts()) : the_post();
