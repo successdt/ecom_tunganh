@@ -43,7 +43,8 @@
         
     </div>
 <?php  } ?>
-
+	<?php
+	/*
     <div id="footer">
     
         <div id="copyrights">
@@ -55,7 +56,6 @@
                 }
             ?> 
         </div>
-        
         <?php /* 
             All links in the footer should remain intact. 
             These links are all family friendly and will not hurt your site in any way. 
@@ -65,9 +65,9 @@
         */ ?>
         <?php /*
         <div id="credits">Powered by <a href="http://wordpress.org/"><strong>WordPress</strong></a> | Designed by: <a href="http://www.icarter4.com">carte r4</a> | Thanks to <a href="http://www.ir4isdhc.fr">r4 sdhc</a>, <a href="http://www.r4-3ds.fr">r4</a> and <a href="http://www.r4ifr.fr">r4i</a></div><!-- #credits -->
-        */?>
+        */ /* ?>
     </div><!-- #footer -->
-    
+    */ ?>
 </div><!-- #container -->
 
 <?php wp_footer(); ?>

@@ -11,6 +11,9 @@ body {
 	padding: 0;
 	height: auto;
 }
+.logo img {
+	max-height: 72px;
+}
 .primary-menu-container{
 	width: 100%;
 	background: rgba(255, 255, 255, 0.8);
@@ -50,6 +53,9 @@ body {
 }
 .menu-primary  .sf-sub-indicator {
 	display: none;
+}
+.menu-primary .sub-menu li + li {
+	border-top: 1px solid #CCC ;
 }
 .nivo-controlNav {
 	margin-top: -40px;
@@ -159,7 +165,7 @@ h1.page-title, .related.products h2, h1.home_page_title {
 	
 }
 #dc_jqaccordion_widget-2 li +  li {
-	border-top: 1px solid #FFF;
+	border-top: 1px solid #CCC;
 }
 #dc_jqaccordion_widget-2 > div li a {
 	color: #FFF;
@@ -167,7 +173,10 @@ h1.page-title, .related.products h2, h1.home_page_title {
 	padding: 10px 0 10px 5px;
 }
 #dc_jqaccordion_widget-2 .sub-menu li {
-	background: #3EE357;
+	background: #FFF;
+}
+#dc_jqaccordion_widget-2 .sub-menu li a {
+	color: #000;
 }
 ul.sub-menu li {
 	text-align: left;
