@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.9\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-04-29 16:02:06+00:00\n"
-"PO-Revision-Date: 2013-09-24 13:44+0700\n"
+"PO-Revision-Date: 2013-09-25 15:22+0700\n"
 "Last-Translator: Thach Pham <ezit92@gmail.com>\n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -32,12 +32,12 @@ msgstr "Giá sản phẩm/Nút giỏ hàng"
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:7
 msgid "Product by SKU/ID"
-msgstr ""
+msgstr "Sản phẩm theo SKU/ID"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:8
 msgid "Products by SKU/ID"
-msgstr ""
+msgstr "Sản phẩm theo SKU/IDs"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:9
@@ -47,7 +47,7 @@ msgstr "Danh mục sản phẩm"
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:10
 msgid "Products by category slug"
-msgstr ""
+msgstr "Sản phẩm theo Danh mục"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:11
@@ -189,7 +189,7 @@ msgstr "Chọn loại định dạng của email gửi."
 #: classes/emails/class-wc-email-customer-invoice.php:178
 #: classes/emails/class-wc-email-new-order.php:148
 msgid "Plain text"
-msgstr ""
+msgstr "Text thuần"
 
 # @ woocommerce
 #: classes/abstracts/abstract-wc-email.php:458
@@ -205,7 +205,7 @@ msgstr ""
 #: classes/emails/class-wc-email-customer-invoice.php:180
 #: classes/emails/class-wc-email-new-order.php:150
 msgid "Multipart"
-msgstr ""
+msgstr "Nhiều mảng"
 
 # @ woocommerce
 #: classes/abstracts/abstract-wc-email.php:495
@@ -228,7 +228,7 @@ msgstr "Template file đã được xóa trong thư mục theme."
 #: classes/abstracts/abstract-wc-integration.php:30
 #: classes/abstracts/abstract-wc-settings-api.php:39 woocommerce.php:170
 msgid "Settings"
-msgstr ""
+msgstr "Thiết lập"
 
 # @ woocommerce
 #: classes/abstracts/abstract-wc-email.php:572
@@ -238,7 +238,7 @@ msgstr ""
 # @ woocommerce
 #: classes/abstracts/abstract-wc-email.php:573
 msgid "Plain text template"
-msgstr ""
+msgstr "Template thuần text"
 
 # @ woocommerce
 #: classes/abstracts/abstract-wc-email.php:592
@@ -445,35 +445,35 @@ msgstr ""
 # @ woocommerce
 #: classes/class-wc-checkout.php:64
 msgid "Account username"
-msgstr ""
+msgstr "Tài khoản user"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:65
 msgctxt "placeholder"
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:72
 msgid "Account password"
-msgstr ""
+msgstr "Mật khẩu"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:73
 msgctxt "placeholder"
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:79
 msgid "Confirm password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:80
 msgctxt "placeholder"
 msgid "Confirm password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:89
@@ -489,7 +489,7 @@ msgstr "Ghi chú thêm về đơn hàng mà bạn."
 # @ woocommerce
 #: classes/class-wc-checkout.php:152
 msgid "Order &ndash; %s"
-msgstr ""
+msgstr "Đơn hàng &ndash; %s"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:152
@@ -536,12 +536,12 @@ msgstr ""
 # @ woocommerce
 #: classes/class-wc-checkout.php:545
 msgid "Please enter an account username."
-msgstr ""
+msgstr "Vui lòng nhập account name"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:549
 msgid "Invalid email/username."
-msgstr ""
+msgstr "Email, user name không hợp lệ"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:552
@@ -2051,12 +2051,12 @@ msgstr ""
 # @ woocommerce
 #: classes/class-wc-emails.php:246
 msgid "Note"
-msgstr ""
+msgstr "Ghi chú"
 
 # @ woocommerce
 #: classes/class-wc-emails.php:281
 msgid "Product low in stock"
-msgstr ""
+msgstr "Sản phẩm trong kho sắp hết"
 
 # @ woocommerce
 #: classes/class-wc-emails.php:286 classes/class-wc-emails.php:318
@@ -2068,7 +2068,7 @@ msgstr ""
 #: classes/class-wc-emails.php:288 classes/class-wc-emails.php:320
 #: classes/class-wc-emails.php:364
 msgid "Product #%s - %s"
-msgstr ""
+msgstr "Sản phẩm #%s - %s"
 
 # @ woocommerce
 #: classes/class-wc-emails.php:290
@@ -2078,12 +2078,12 @@ msgstr ""
 # @ woocommerce
 #: classes/class-wc-emails.php:313
 msgid "Product out of stock"
-msgstr ""
+msgstr "Sản phẩm này đã hết hàng"
 
 # @ woocommerce
 #: classes/class-wc-emails.php:322
 msgid "is out of stock."
-msgstr ""
+msgstr "Hết hàng"
 
 # @ woocommerce
 #: classes/class-wc-emails.php:357
@@ -2141,12 +2141,12 @@ msgstr ""
 #: classes/class-wc-order.php:1168 classes/class-wc-order.php:1170
 #: classes/class-wc-order.php:1173
 msgid "WooCommerce"
-msgstr ""
+msgstr "Thương mại"
 
 # @ woocommerce
 #: classes/class-wc-order.php:1220
 msgid "Order status changed from %s to %s."
-msgstr ""
+msgstr "Trạng thái đơn hàng được chuyển từ %s sang %s."
 
 # @ woocommerce
 #: classes/class-wc-order.php:1452 woocommerce-ajax.php:1089
@@ -2162,7 +2162,7 @@ msgstr ""
 # @ woocommerce
 #: classes/class-wc-product-external.php:56
 msgid "Buy product"
-msgstr ""
+msgstr "Mua sản phẩm"
 
 # @ woocommerce
 #: classes/class-wc-shortcodes.php:571
@@ -2178,7 +2178,7 @@ msgstr "Thêm vào giỏ"
 # @ woocommerce
 #: classes/emails/class-wc-email-customer-completed-order.php:24
 msgid "Completed order"
-msgstr ""
+msgstr "Đơn hàng được hoàn tất"
 
 # @ woocommerce
 #: classes/emails/class-wc-email-customer-completed-order.php:25
@@ -2213,7 +2213,7 @@ msgstr ""
 #: classes/emails/class-wc-email-customer-completed-order.php:141
 #: classes/emails/class-wc-email-new-order.php:128
 msgid "Subject"
-msgstr ""
+msgstr "Chủ đề"
 
 # @ woocommerce
 #: classes/emails/class-wc-email-customer-completed-order.php:148
@@ -3081,7 +3081,7 @@ msgstr "Mã SKU:"
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:293
 #: woocommerce.php:982
 msgid "Products"
-msgstr ""
+msgstr "Sản phẩm"
 
 # @ woocommerce
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:294
@@ -3811,7 +3811,7 @@ msgstr ""
 # @ woocommerce
 #: classes/widgets/class-wc-widget-best-sellers.php:71
 msgid "Best Sellers"
-msgstr ""
+msgstr "Bán chạy"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-best-sellers.php:189
@@ -3940,7 +3940,7 @@ msgstr ""
 # @ woocommerce
 #: classes/widgets/class-wc-widget-layered-nav.php:365
 msgid "List"
-msgstr ""
+msgstr "Danh sách"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-layered-nav.php:366
@@ -4002,7 +4002,7 @@ msgstr "Giá tối đa"
 # @ woocommerce
 #: classes/widgets/class-wc-widget-price-filter.php:138
 msgid "Filter"
-msgstr ""
+msgstr "Bộ lọc"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-price-filter.php:140
@@ -4012,54 +4012,54 @@ msgstr "Giá:"
 # @ woocommerce
 #: classes/widgets/class-wc-widget-price-filter.php:162
 msgid "Filter by price"
-msgstr ""
+msgstr "Lọc theo giá"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:33
 msgid "A list or dropdown of product categories."
-msgstr ""
+msgstr "Danh sách danh mục sản phẩm"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:35
 msgid "WooCommerce Product Categories"
-msgstr ""
+msgstr "Sản phẩm và danh mục"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:57
 #: woocommerce.php:821 woocommerce.php:823
 msgid "Product Categories"
-msgstr ""
+msgstr "Danh mục sản phẩm"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:129
 msgid "No product categories exist."
-msgstr ""
+msgstr "Không tồn tại sản phẩm trong danh mục"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:188
 msgid "Order by:"
-msgstr ""
+msgstr "Đặt hàng bởi"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:190
 msgid "Category Order"
-msgstr ""
+msgstr "Danh mục đơn đặt hàng"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:191
 #: templates/single-product-reviews.php:84 woocommerce-ajax.php:1171
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:195
 msgid "Show as dropdown"
-msgstr ""
+msgstr "Hiển thị kiểu dropdown"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:198
 msgid "Show post counts"
-msgstr ""
+msgstr "Hiển thị đếm post"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-product-categories.php:201
@@ -4131,7 +4131,7 @@ msgstr ""
 # @ woocommerce
 #: classes/widgets/class-wc-widget-recent-products.php:70
 msgid "New Products"
-msgstr ""
+msgstr "Sản phẩm mới"
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-recent-reviews.php:31
@@ -6179,12 +6179,12 @@ msgstr ""
 # @ woocommerce
 #: templates/cart/totals.php:35 templates/cart/totals.php:83
 msgid "[Remove]"
-msgstr ""
+msgstr "Xoá"
 
 # @ woocommerce
 #: templates/cart/totals.php:46 templates/checkout/review-order.php:45
 msgid "Shipping"
-msgstr ""
+msgstr "Vận chuyển"
 
 # @ woocommerce
 #: templates/cart/totals.php:83 templates/checkout/review-order.php:82
@@ -6244,7 +6244,7 @@ msgstr "Địa chỉ thanh toán"
 # @ woocommerce
 #: templates/checkout/form-billing.php:42
 msgid "Create an account?"
-msgstr ""
+msgstr "Tạo một tài khoản mới?"
 
 # @ woocommerce
 #: templates/checkout/form-billing.php:51
@@ -6719,18 +6719,18 @@ msgstr ""
 #: templates/myaccount/form-login.php:60
 #: templates/myaccount/form-login.php:101
 msgid "Register"
-msgstr ""
+msgstr "Đăng ký"
 
 # @ woocommerce
 #: templates/myaccount/form-login.php:66
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 # @ woocommerce
 #: templates/myaccount/form-login.php:78
 #: templates/single-product-reviews.php:86
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # @ woocommerce
 #: templates/myaccount/form-login.php:89
@@ -6765,7 +6765,7 @@ msgstr ""
 # @ woocommerce
 #: templates/myaccount/my-address.php:17
 msgid "My Addresses"
-msgstr ""
+msgstr "Địa chỉ của tôi"
 
 # @ woocommerce
 #: templates/myaccount/my-address.php:23
@@ -6783,7 +6783,7 @@ msgstr ""
 #: woocommerce.php:987 woocommerce.php:1024 woocommerce.php:1062
 #: woocommerce.php:1100
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 # @ woocommerce
 #: templates/myaccount/my-address.php:64
@@ -6810,12 +6810,12 @@ msgstr "Đơn hàng mới đặt"
 # @ woocommerce
 #: templates/myaccount/my-orders.php:32 woocommerce.php:1059
 msgid "Order"
-msgstr ""
+msgstr "Đơn hàng"
 
 # @ woocommerce
 #: templates/myaccount/my-orders.php:33
 msgid "Date"
-msgstr ""
+msgstr "Ngày"
 
 # @ woocommerce
 #: templates/myaccount/my-orders.php:34
@@ -6832,7 +6832,7 @@ msgstr[1] "%s cho %s sản phẩm"
 # @ woocommerce
 #: templates/myaccount/my-orders.php:77
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ"
 
 # @ default
 # @ woocommerce
@@ -6853,7 +6853,7 @@ msgstr ""
 # @ woocommerce
 #: templates/order/form-tracking.php:19
 msgid "Order ID"
-msgstr ""
+msgstr "Mã đơn hàng"
 
 # @ woocommerce
 #: templates/order/form-tracking.php:19
@@ -6938,22 +6938,22 @@ msgstr ""
 # @ woocommerce
 #: templates/shop/breadcrumb.php:197
 msgid "Author:"
-msgstr ""
+msgstr "Tác giả"
 
 # @ woocommerce
 #: templates/shop/breadcrumb.php:202
 msgid "Page"
-msgstr ""
+msgstr "Trang"
 
 # @ woocommerce
 #: templates/single-product/add-to-cart/variable.php:24
 msgid "Choose an option"
-msgstr ""
+msgstr "Chọn"
 
 # @ woocommerce
 #: templates/single-product/add-to-cart/variable.php:69
 msgid "Clear selection"
-msgstr ""
+msgstr "Xoá chọn"
 
 # @ woocommerce
 #: templates/single-product/meta.php:24
@@ -6972,12 +6972,12 @@ msgstr[1] "Thẻ:"
 # @ woocommerce
 #: templates/single-product/product-attributes.php:28
 msgid "Weight"
-msgstr ""
+msgstr "Nặng"
 
 # @ woocommerce
 #: templates/single-product/product-attributes.php:37
 msgid "Dimensions"
-msgstr ""
+msgstr "Kích thước"
 
 # @ woocommerce
 #: templates/single-product/related.php:36
@@ -7514,62 +7514,62 @@ msgstr ""
 # @ woocommerce
 #: woocommerce-functions.php:983
 msgid "Product no longer exists."
-msgstr ""
+msgstr "Sản phẩm này không tồn tại"
 
 # @ woocommerce
 #: woocommerce-functions.php:993
 msgid "Sorry, you have reached your download limit for this file"
-msgstr ""
+msgstr "Xin lỗi, bạn chưa đủ quyền để download file này"
 
 # @ woocommerce
 #: woocommerce-functions.php:996
 msgid "Sorry, this download has expired"
-msgstr ""
+msgstr "Xin lỗi, file đã hết hiệu lực"
 
 # @ woocommerce
 #: woocommerce-functions.php:1026
 msgid "No file defined"
-msgstr ""
+msgstr "Không có file nào được định nghĩa"
 
 # @ woocommerce
 #: woocommerce-functions.php:1158
 msgid "File not found"
-msgstr ""
+msgstr "Không tìm thấy file"
 
 # @ woocommerce
 #: woocommerce-functions.php:1274
 msgid "New products"
-msgstr ""
+msgstr "Sản phẩm mới"
 
 # @ woocommerce
 #: woocommerce-functions.php:1282
 msgid "New products added to %s"
-msgstr ""
+msgstr "Sản phẩm mới được add vào %s"
 
 # @ woocommerce
 #: woocommerce-functions.php:1290
 msgid "New products tagged %s"
-msgstr ""
+msgstr "Sản phẩm mới được tag vào %s"
 
 # @ woocommerce
 #: woocommerce-functions.php:1328
 msgid "You have taken too long. Please go back and refresh the page."
-msgstr ""
+msgstr "Bạn đã mất quá nhiều thời gian, Vui lòng quay trở lại và làm mới trang"
 
 # @ woocommerce
 #: woocommerce-functions.php:1331
 msgid "Please rate the product."
-msgstr ""
+msgstr "Vui lòng xếp hạng sản phẩm này"
 
 # @ woocommerce
 #: woocommerce-functions.php:1639
 msgid "Password changed successfully."
-msgstr ""
+msgstr "Mật khẩu được thay đổi thành công"
 
 # @ woocommerce
 #: woocommerce-functions.php:1715
 msgid "Address changed successfully."
-msgstr ""
+msgstr "Địa chỉ được thay đổi thành công"
 
 # @ woocommerce
 #: woocommerce-template.php:200
@@ -7577,11 +7577,13 @@ msgid ""
 "This is a demo store for testing purposes &mdash; no orders shall be "
 "fulfilled."
 msgstr ""
+"Đây là demo store dùng cho mục đích test, Không có đơn hàng nào được điền "
+"đầy đủ."
 
 # @ woocommerce
 #: woocommerce-template.php:219
 msgid "Search Results: &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Kết quả tìm kiếm: &ldquo;%s&rdquo;"
 
 # @ woocommerce
 #: woocommerce-template.php:222
@@ -7597,22 +7599,22 @@ msgstr "Đánh giá (%d)"
 #: woocommerce-template.php:993
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr ""
+msgstr "Trang chủ"
 
 # @ woocommerce
 #: woocommerce-template.php:1292 woocommerce.php:1209
 msgid "required"
-msgstr ""
+msgstr "Bắt buộc"
 
 # @ woocommerce
 #: woocommerce-template.php:1341
 msgid "Update country"
-msgstr ""
+msgstr "Cập nhật quốc gia"
 
 # @ woocommerce
 #: woocommerce-template.php:1496
 msgid "Search for:"
-msgstr ""
+msgstr "Tìm kiếm cho"
 
 # @ woocommerce
 #: woocommerce-template.php:1497
@@ -7622,7 +7624,7 @@ msgstr "Tìm sản phẩm"
 # @ woocommerce
 #: woocommerce-template.php:1498 woocommerce.php:947
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 # @ woocommerce
 #: woocommerce.php:171
@@ -7644,39 +7646,39 @@ msgstr ""
 #: woocommerce.php:787
 msgctxt "slug"
 msgid "product-tag"
-msgstr ""
+msgstr "tag-sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:789
 msgctxt "slug"
 msgid "product"
-msgstr ""
+msgstr "sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:824
 msgid "Product Category"
-msgstr ""
+msgstr "Danh mục sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:825
 msgctxt "Admin menu name"
 msgid "Categories"
-msgstr ""
+msgstr "Danh mục"
 
 # @ woocommerce
 #: woocommerce.php:826
 msgid "Search Product Categories"
-msgstr ""
+msgstr "Tìm kiếm danh mục sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:827
 msgid "All Product Categories"
-msgstr ""
+msgstr "Tất cả danh mục sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:828
 msgid "Parent Product Category"
-msgstr ""
+msgstr "Danh mục cha"
 
 # @ woocommerce
 #: woocommerce.php:829
@@ -7686,12 +7688,12 @@ msgstr ""
 # @ woocommerce
 #: woocommerce.php:830
 msgid "Edit Product Category"
-msgstr ""
+msgstr "Sửa danh mục sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:831
 msgid "Update Product Category"
-msgstr ""
+msgstr "Cập nhật danh mục sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:832
@@ -7701,28 +7703,28 @@ msgstr "Thêm danh mục mới"
 # @ woocommerce
 #: woocommerce.php:833
 msgid "New Product Category Name"
-msgstr ""
+msgstr "Thêm tên danh mục sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:860
 msgid "Product Tag"
-msgstr ""
+msgstr "Tag sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:861
 msgctxt "Admin menu name"
 msgid "Tags"
-msgstr ""
+msgstr "Thẻ "
 
 # @ woocommerce
 #: woocommerce.php:862
 msgid "Search Product Tags"
-msgstr ""
+msgstr "Tìm kiếm thẻ về sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:863
 msgid "All Product Tags"
-msgstr ""
+msgstr "Tất cả thẻ về sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:864
@@ -7737,7 +7739,7 @@ msgstr ""
 # @ woocommerce
 #: woocommerce.php:866
 msgid "Edit Product Tag"
-msgstr ""
+msgstr "Chỉnh sửa thẻ sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:867
@@ -7808,17 +7810,17 @@ msgstr ""
 # @ woocommerce
 #: woocommerce.php:948
 msgid "All"
-msgstr ""
+msgstr "Tất cả"
 
 # @ woocommerce
 #: woocommerce.php:949 woocommerce.php:950
 msgid "Parent"
-msgstr ""
+msgstr "Cha"
 
 # @ woocommerce
 #: woocommerce.php:952
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 # @ woocommerce
 #: woocommerce.php:953
@@ -7828,18 +7830,18 @@ msgstr "Thêm mới"
 # @ woocommerce
 #: woocommerce.php:954
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 # @ woocommerce
 #: woocommerce.php:984
 msgctxt "Admin menu name"
 msgid "Products"
-msgstr ""
+msgstr "Sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:985
 msgid "Add Product"
-msgstr ""
+msgstr "Thêm sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:986
@@ -7849,37 +7851,37 @@ msgstr "Thêm sản phẩm"
 # @ woocommerce
 #: woocommerce.php:988
 msgid "Edit Product"
-msgstr ""
+msgstr "Sửa sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:989
 msgid "New Product"
-msgstr ""
+msgstr "Sản phẩm mới"
 
 # @ woocommerce
 #: woocommerce.php:990 woocommerce.php:991
 msgid "View Product"
-msgstr ""
+msgstr "Xem sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:992
 msgid "Search Products"
-msgstr ""
+msgstr "Tìm kiếm sản phẩm"
 
 # @ woocommerce
 #: woocommerce.php:993
 msgid "No Products found"
-msgstr ""
+msgstr "Không tìm thấy sản phẩm nào"
 
 # @ woocommerce
 #: woocommerce.php:994
 msgid "No Products found in trash"
-msgstr ""
+msgstr "Không tìm thấy sản phẩm nào trong thung rác"
 
 # @ woocommerce
 #: woocommerce.php:995
 msgid "Parent Product"
-msgstr ""
+msgstr "Sản phẩm cha"
 
 # @ woocommerce
 #: woocommerce.php:997
@@ -7945,17 +7947,17 @@ msgstr ""
 #: woocommerce.php:1049
 msgctxt "Admin menu name"
 msgid "Orders"
-msgstr ""
+msgstr "Đơn hàng"
 
 # @ woocommerce
 #: woocommerce.php:1058
 msgid "Orders"
-msgstr ""
+msgstr "Đơn hàng"
 
 # @ woocommerce
 #: woocommerce.php:1060
 msgid "Add Order"
-msgstr ""
+msgstr "Thêm đơn hàng"
 
 # @ woocommerce
 #: woocommerce.php:1061
@@ -7965,27 +7967,27 @@ msgstr "Thêm đơn hàng"
 # @ woocommerce
 #: woocommerce.php:1063
 msgid "Edit Order"
-msgstr ""
+msgstr "Sửa đơn hàng"
 
 # @ woocommerce
 #: woocommerce.php:1064
 msgid "New Order"
-msgstr ""
+msgstr "Đơn hàng mới"
 
 # @ woocommerce
 #: woocommerce.php:1067
 msgid "Search Orders"
-msgstr ""
+msgstr "Tìm kiếm đơn hàng"
 
 # @ woocommerce
 #: woocommerce.php:1068
 msgid "No Orders found"
-msgstr ""
+msgstr "Không tìm thấy đơn hàng"
 
 # @ woocommerce
 #: woocommerce.php:1069
 msgid "No Orders found in trash"
-msgstr ""
+msgstr "Không tìm thấy đơn hàng nào trong thùng rác"
 
 # @ woocommerce
 #: woocommerce.php:1070
@@ -8000,7 +8002,7 @@ msgstr ""
 # @ woocommerce
 #: woocommerce.php:1095
 msgid "Coupons"
-msgstr ""
+msgstr "Giảm giá"
 
 # @ woocommerce
 #: woocommerce.php:1097
@@ -8099,4 +8101,4 @@ msgstr ""
 # @ woocommerce
 #: woocommerce.php:1758
 msgid "Action failed. Please refresh the page and retry."
-msgstr ""
+msgstr "Thao tác thất bại, vui lòng refresh lại trang rồi thử lại."
