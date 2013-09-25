@@ -306,3 +306,6 @@ h2.title a {
 .gallery_box_single {
 	margin: 5px;
 } 
+.cas_div {
+	float: left;
+}
