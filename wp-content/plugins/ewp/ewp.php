@@ -73,7 +73,7 @@ function buy_product(){
 	$string = '
 		<input type="hidden" id="ajax-url" value="' . admin_url('admin-ajax.php') .'">
 		<div class="product-form">
-			<a href="#info-form" id="buy-product-btn">Đặt thuê</a>
+			<a href="#info-form" id="buy-product-btn">Liên hệ</a>
 			<div style="display:none" id="info-form-wrapper">
 				<div id="info-form">
 					<table>

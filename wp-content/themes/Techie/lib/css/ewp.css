@@ -6,8 +6,8 @@ body {
 }
 /*header*/
 #header {
-	background-color: #2268AA;
-	background: url('../images/header_bg.jpg');
+	background-color: #266AAD;
+	/*background: url('../images/header_bg.jpg');*/
 	padding: 0;
 	height: auto;
 }
@@ -78,8 +78,8 @@ body {
 }
 /*content*/
 .slider-container {
-	background: #2368AB;
-	background: url('../images/header_bg.jpg');
+	background-color: #266AAD;
+/*	background: url('../images/header_bg.jpg'); */
 }
 #main {
 	max-width: 960px;
