@@ -12,14 +12,15 @@ body {
 	height: auto;
 }
 .logo img {
-	max-height: 72px;
+	max-height: 90px;
+	position: relative;
+	z-index: 20;
 }
 .primary-menu-container{
 	width: 100%;
 	background: rgba(255, 255, 255, 0.8);
-	margin-top: 0;
+	margin-top: -34px;
 	border-bottom: 5px solid #21B34E;
-	
 }
 .primary-menu-container .row-fluid {
 	
@@ -41,11 +42,13 @@ body {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.menu-primary-container > ul > li:hover > a, .menu-primary li li:hover a {
+.menu-primary-container > ul > li:hover > a, .menu-primary li li a:hover {
 	background: #21B34E !important;
+	color: #FFF;
 }
 .current-menu-item a{
 	background: #21B34E !important;
+	color: #FFF !important;
 }
 .menu-primary li a:hover, .menu-primary li a:active, .menu-primary li a:focus, 
 .menu-primary li:hover > a, .menu-primary li.current-cat > a, .menu-primary li.current_page_item > a, .menu-primary li.current-menu-item > a{
