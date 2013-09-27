@@ -309,3 +309,50 @@ h2.title a {
 .cas_div {
 	float: left;
 }
+#vsrp_Holder {
+	margin: 20px !important;
+	border-top: 1px solid #DBDAD5;
+	border-bottom:  1px solid #DBDAD5;
+}
+#vsrp_Holder {
+	margin: 0 !important;
+}
+
+#vsrp_Holder a {
+	color: #000;
+
+}
+#vsrp_Holder a:hover {
+	color: #B73E26;
+}
+#vsrp_Holder .vsrp_div {
+	width: 200px;
+	margin-left: 5px;
+	border-bottom: 1px solid #DBDAD5;
+}
+.vsrp_div {
+
+}
+.vsrp_div div, .vsrp_div span {
+
+}
+.vsrp_div .image {
+	width: 15%;
+	float: left;
+}
+.vsrp_div .title {
+	width: 85%;
+	float: left;
+	
+}
+.vsrp_div .title {
+	width: 80%;
+	margin-left: 5px;
+	font-weight: normal;
+	font-size: 12px;
+}
+.vsrp_div img {
+	margin-top: 5px;
+	width: 32px;
+	height: 32px;
+}
