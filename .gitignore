@@ -12,3 +12,8 @@ wp-content/cache/
 wp-content/backups/
 sitemap.xml
 sitemap.xml.gz
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.php.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.buildpath
+wp-config.php
